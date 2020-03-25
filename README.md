@@ -1,8 +1,9 @@
-# 腾讯 QQ 分享 IOS 端SDK
+# iOS 腾讯 QQ sdk for cocopod
 
 ## 使用方法
 
 ```
 # pod TencentOpenAPI
-pod 'TencentOpenAPI',   :git => 'https://github.com/Tconan99/TencentOpenAPI.git'
+pod 'TencentOpenAPI',   :git => 'https://github.com/everfire130
+/TencentOpenAPI.git'
 ```
